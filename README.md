@@ -1,9 +1,9 @@
-# Análise de Sentimentos com Azure AI Language
+# Análise de Sentimentos com Language Studio no Azure AI
 
 
-Para descobrir o que os clientes realmente pensam sobre uma marca, produto ou serviço, pode-se utilizar o **Azure AI Language**! Essa ferramenta poderosa utiliza **Processamento de Linguagem Natural (PLN)** para analisar textos e identificar instantaneamente sentimentos como positivo, negativo ou neutro.
+Para descobrir o que os clientes realmente pensam sobre uma marca, produto ou serviço, você pode usar o **Language Studio no Azure AI**. Essa ferramenta poderosa utiliza **Processamento de Linguagem Natural (PLN)** para analisar textos e identificar instantaneamente sentimentos como positivo, negativo ou neutro.
 
-Entender o que as pessoas sentem é um diferencial competitivo. Com o **Azure AI Language**, você pode tomar decisões mais estratégicas e focar no que realmente importa para seus clientes.
+Com isso, é possível tomar decisões mais estratégicas e focar no que realmente importa para os seus clientes.
 
 ## Como funciona?
 
