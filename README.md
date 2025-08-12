@@ -1,0 +1,1 @@
+# An-lise-de-Sentimentos-com-Azure-AI-Language
