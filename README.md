@@ -1,30 +1,20 @@
-# Análise de Sentimentos com Language Studio no Azure AI
+# Análise de Sentimento com Azure Speech e Language Studio
 
+Este projeto demonstra como combinar o **Azure Speech Studio** e o **Azure Language Studio** para criar um agente de IA capaz de analisar o sentimento de usuários em relação a um aplicativo. Essa abordagem permite tomar decisões estratégicas mais embasadas, focando no que realmente importa para sua base de usuários.
 
-Para descobrir o que os clientes realmente pensam sobre uma marca, produto ou serviço, você pode usar o **Language Studio no Azure AI**. Essa ferramenta poderosa utiliza **Processamento de Linguagem Natural (PLN)** para analisar textos e identificar instantaneamente sentimentos como positivo, negativo ou neutro.
+## Como Funciona
 
-Com isso, é possível tomar decisões mais estratégicas e focar no que realmente importa para os seus clientes.
+* **Azure Speech Studio:** Transcreve áudio para texto. Isso é útil para converter gravações de entrevistas, notas de reuniões ou qualquer outra fonte de voz em dados textuais prontos para análise.
+* **Azure Language Studio:** Utiliza o Processamento de Linguagem Natural (PLN) para analisar o texto e classificar o sentimento do usuário como positivo, negativo ou neutro.
 
-## Como funciona?
+## Benefícios
 
-O processo é simples e eficaz:
+Ao integrar essas duas ferramentas, você obtém um sistema poderoso para analisar o feedback dos usuários de forma automatizada e eficiente.
+* **Entendimento Profundo:** Identifique o que os usuários pensam e sentem sobre seu produto.
+* **Decisões Estratégicas:** Baseie seu roteiro de desenvolvimento em dados concretos, priorizando as melhorias mais impactantes.
+* **Otimização de Tempo:** Automatize a análise de grandes volumes de feedback, liberando sua equipe para outras tarefas.
 
-1. **Coleta de Dados:** Reúna textos de diversas fontes, como redes sociais, avaliações de produtos ou feedbacks de clientes.
-2. **Análise Automatizada:** O Azure AI Language analisa o conteúdo, identificando o sentimento de cada texto.
-3. **Resultados:** Receba uma pontuação de sentimento clara para entender a opinião geral dos seus clientes.
+## Documentações Oficiais 
 
-## Principais Benefícios
-
-* **Compreensão do Cliente:** Entenda o comportamento e as necessidades do seu público.
-* **Melhora Contínua:** Use os dados para aprimorar a experiência do cliente e o seu produto.
-* **Reputação de Marca:** Monitore a percepção pública em tempo real e reaja rapidamente.
-* **Oportunidades de Mercado:** Descubra novas tendências e nichos com base nas opiniões.
-
-## Aplicações na Prática
-
-Onde você pode usar a análise de sentimentos?
-
-* **Redes Sociais:** Monitore comentários e reações sobre sua marca ou campanha.
-* **Avaliações de Produtos:** Identifique pontos fortes e fracos nos feedbacks para melhorar seus produtos.
-* **Feedback de Clientes:** Analise grandes volumes de dados de atendimento para entender o que seus clientes mais precisam.
-* **Pesquisas de Mercado:** Extraia insights valiosos de textos de pesquisa para tomar decisões estratégicas.
+* **[Explore Speech Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html)** - Laboratório no Microsoft Learning
+* **[Analyze text with Language Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html)** - Laboratório no Microsoft Learning
